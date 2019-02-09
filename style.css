@@ -1,0 +1,58 @@
+body,
+html, nav {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  
+}
+#startup{background-image: url(tomatoes.jpg);
+background-size:cover;
+background-position:center;
+margin:0px 10px 10px 10px;
+
+height:100%;
+width:100%;}
+
+#but{border-radius:200px;
+font-size:13px;
+}
+
+hr{margin-top:50px;
+margin-bottom:10px;
+width:200px;
+border:1px solid white;
+}
+
+#h{font-family:cursive;
+margin-top:80px;
+font-size:3rem;
+}
+
+#par{font-style:italic;
+font-family:serif;
+font-size:1.5rem;}
+
+nav{margin:10px;
+background:#3e424b;}
+
+#are{color:purple;
+font-weight: bold;
+font-family:cursive;}
+
+#ar{color:white;
+font-family:cursive;
+}
+
+small{font-weight:bold;
+color:#F9E29C;}
+
+
+#bt{background:#7c0a02;
+color:white;
+margin:10px;
+border-radius:200px;
+font-family: cursive;}
+#u{background:#effd5f;}
